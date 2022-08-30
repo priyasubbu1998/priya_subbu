@@ -31,8 +31,8 @@ module.exports = {
             },
         ],
         contact: {
-            phone: "9674363374",
-            email: "priyadebnath33402@gmail.com",
+            phone: "918013332233",
+            email: "subhankarroy182@gmail.com",
         },
     },
     plugins: [
