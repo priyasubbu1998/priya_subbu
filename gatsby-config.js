@@ -26,12 +26,12 @@ module.exports = {
             {
                 id: 3,
                 title: "linkedin",
-                path: "https://linkedin.com",
-                icon: "WhatsApp",
+                path: "https://Whatsapp.com",
+                icon: "Linkedin",
             },
         ],
         contact: {
-            phone: "918013332233",
+            phone: "8013332233",
             email: "subhankarroy182@gmail.com",
         },
     },
