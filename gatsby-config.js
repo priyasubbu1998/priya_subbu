@@ -27,7 +27,7 @@ module.exports = {
                 id: 3,
                 title: "whatsapp",
                 path: "https://whatsapp.com",
-                icon: "WhatsApp",
+                icon: "Whatsapp",
             },
         ],
         contact: {
